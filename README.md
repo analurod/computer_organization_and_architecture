@@ -44,7 +44,7 @@ Exercícios baseados na string `"Hello World!"`, utilizando o [Simulador 8 bits]
 
 ➡️ **Conceitos praticados**: manipulação de ponteiros, filtragem de caracteres, impressão reversa e uso de ASCII.  
 
-### 📂 Aula 3 – Exercícios Introdutórios em MIPS  
+### 📂 Aula 3 – Exercícios em MIPS  
 Exercícios básicos em **Assembly MIPS**, focados em entrada/saída, operações aritméticas e condições.  
 
 - **Exercício 1** → Lê um número; se for positivo, imprime o **dobro**.  
@@ -53,7 +53,7 @@ Exercícios básicos em **Assembly MIPS**, focados em entrada/saída, operaçõe
 
 ➡️ **Conceitos praticados**: condições simples, comparações, laços, sub-rotinas e operações bit a bit.  
 
-### 📂 Aula 4 – Exercícios Avançados em MIPS  
+### 📂 Aula 4 – Exercícios em MIPS  
 Todos os exercícios têm como objetivo encontrar o **maior valor** entre entradas, mas utilizando abordagens diferentes.  
 
 - **Exercício 1** → Comparações diretas com **desvios condicionais (`bgt`)**.  
