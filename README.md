@@ -1,5 +1,6 @@
 # AOC  
-  
+[English Version](https://github.com/analurod/computer_organization_and_architecture/blob/main/englishversion.md)<br>
+
 Este repositório contém exercícios práticos da disciplina **Arquitetura e Organização de Computadores (AOC)**.  
 O objetivo é consolidar conceitos aprendidos em aula, como **assembly, organização de memória, instruções de máquina, manipulação de registradores e estruturas básicas de hardware**.  
 
